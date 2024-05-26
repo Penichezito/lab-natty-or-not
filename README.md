@@ -1,6 +1,6 @@
 # Ebook Arquitetura de Microsserviços: Os Guardiões da Galáxia do Desenvilvimento de Software
 
-![]()
+![](https://github.com/Penichezito/lab-natty-or-not/blob/main/images/Capa%20-%20Microservices.png)
 
 ## 📒 Descrição
 Projeto com o objetivo de gerar um Ebook com um layout rico, leitura agradável e com foco em promover minha autoridade técnica utilizando IA.
