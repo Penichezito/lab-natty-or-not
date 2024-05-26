@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+# Ebook Arquitetura de Microsserviços: Os Guardiões da Galáxia do Desenvilvimento de Software
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+![]()
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto com o objetivo de gerar um Ebook com um layout rico, leitura agradável e com foco em promover minha autoridade técnica utilizando IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [Gemini](https://gemini.google.com/) - para título e conteúdo
+- [Aria AI - OperaGX](https://www.opera.com/pt-br/gx?edition=std-2&utm_content=707_8b11f122-6cf2-4cbb-b267-2b466755316f&utm_source=PWNgames&utm_medium=pa&utm_campaign=PWN_BR&utm_id=e9ba7d4649df44a9adcb22bab70b9f2e) - Título e Conteúdo
+- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [Copilot - DALL-E.3](https://copilot.microsoft.com/) - para gerar imagens
+- [Canva](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Processo de criação é bem simples, primeiro penso na ideia e uso os prompts corretos na IA para me ajudar no processo criativo e vou "consertando baseado nas saídas que ela me gera, depois coloco minhas próprias palavras e crio um artigo com as informações que ela passou. Depois com o artigo pronto eu coleto as informações mais relevantes e transformo esse artigo em um Ebook. As imagens eu peço a IA segundo o que preciso relacionado ao tema e vou ajustando conforme necessário. 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Gemini & Aria AI：
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 5 opções criativas e divertidas com o tema do artigo                                                                                                                                                                                                  |
+| conteúdo | Crie um artigo sobre o tema "Microsserviços" fazendo uma analogia com os Guardões da Galáxia. O artigo deve ser informal e otimizado em SEO  |
 
-### Exemplos e Insigths
+Lexica.art e Copilot：
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- No léxica e Copilot utilizamos prompts originais, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-## Links Interessantes
+• Guardiões da Galáxia
+• Groot e Rocket Racoon tomando café e programando
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
