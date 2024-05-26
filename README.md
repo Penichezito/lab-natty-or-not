@@ -1,4 +1,3 @@
-
 # Ebook Arquitetura de Microsserviços: Os Guardiões da Galáxia do Desenvilvimento de Software
 
 ![]()
